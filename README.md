@@ -1,2 +1,2 @@
 # Recognition
-!(/example.png)
+![example](/example.png)
