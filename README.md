@@ -1,2 +1,2 @@
 # Recognition
-![GitHub Logo](/example.png)
+!(/example.png)
